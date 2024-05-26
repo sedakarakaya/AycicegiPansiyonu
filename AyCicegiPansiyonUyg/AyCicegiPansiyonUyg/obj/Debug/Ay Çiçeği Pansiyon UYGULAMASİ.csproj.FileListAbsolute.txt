@@ -1,0 +1,50 @@
+C:\Users\SEDA\Desktop\c# yeni\AyCicegiPansiyonUyg\AyCicegiPansiyonUyg\bin\Debug\AyCicegiPansiyonUyg.exe.config
+C:\Users\SEDA\Desktop\c# yeni\AyCicegiPansiyonUyg\AyCicegiPansiyonUyg\bin\Debug\AyCicegiPansiyonUyg.exe
+C:\Users\SEDA\Desktop\c# yeni\AyCicegiPansiyonUyg\AyCicegiPansiyonUyg\bin\Debug\AyCicegiPansiyonUyg.pdb
+C:\Users\SEDA\Desktop\c# yeni\AyCicegiPansiyonUyg\AyCicegiPansiyonUyg\obj\Debug\Ay Çiçeği Pansiyon UYGULAMASİ.csproj.AssemblyReference.cache
+C:\Users\SEDA\Desktop\c# yeni\AyCicegiPansiyonUyg\AyCicegiPansiyonUyg\obj\Debug\AyCicegiPansiyonUyg.Properties.Resources.resources
+C:\Users\SEDA\Desktop\c# yeni\AyCicegiPansiyonUyg\AyCicegiPansiyonUyg\obj\Debug\Ay Çiçeği Pansiyon UYGULAMASİ.csproj.GenerateResource.cache
+C:\Users\SEDA\Desktop\c# yeni\AyCicegiPansiyonUyg\AyCicegiPansiyonUyg\obj\Debug\Ay Çiçeği Pansiyon UYGULAMASİ.csproj.CoreCompileInputs.cache
+C:\Users\SEDA\Desktop\c# yeni\AyCicegiPansiyonUyg\AyCicegiPansiyonUyg\obj\Debug\AyCicegiPansiyonUyg.exe
+C:\Users\SEDA\Desktop\c# yeni\AyCicegiPansiyonUyg\AyCicegiPansiyonUyg\obj\Debug\AyCicegiPansiyonUyg.pdb
+C:\Users\SEDA\Desktop\c# yeni\AyCicegiPansiyonUyg\AyCicegiPansiyonUyg\obj\Debug\AyCicegiPansiyonUyg.FrmAnaSayfa.resources
+C:\Users\SEDA\Desktop\c# yeni\AyCicegiPansiyonUyg\AyCicegiPansiyonUyg\obj\Debug\AyCicegiPansiyonUyg.FrmYeniMüsteri.resources
+C:\Users\SEDA\Desktop\c# yeni\AyCicegiPansiyonUyg\AyCicegiPansiyonUyg\obj\Debug\AyCicegiPansiyonUyg.FrmAdminGiris.resources
+C:\Users\SEDA\Desktop\c# yeni\AyCicegiPansiyonUyg\AyCicegiPansiyonUyg\obj\Debug\AyCicegiPansiyonUyg.FrmOdalar.resources
+C:\Users\SEDA\Desktop\c# yeni\AyCicegiPansiyonUyg\AyCicegiPansiyonUyg\obj\Debug\AyCicegiPansiyonUyg.FrmMusteriler.resources
+C:\Users\SEDA\Desktop\c# yeni\AyCicegiPansiyonUyg\AyCicegiPansiyonUyg\obj\Debug\AyCicegiPansiyonUyg.FrmGelirGider.resources
+C:\Users\SEDA\Desktop\c# yeni\AyCicegiPansiyonUyg\AyCicegiPansiyonUyg\obj\Debug\AyCicegiPansiyonUyg.FrmStoklar.resources
+C:\Users\SEDA\Desktop\c# yeni\AyCicegiPansiyonUyg\AyCicegiPansiyonUyg\bin\Debug\Interop.WMPLib.dll
+C:\Users\SEDA\Desktop\c# yeni\AyCicegiPansiyonUyg\AyCicegiPansiyonUyg\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\SEDA\Desktop\c# yeni\AyCicegiPansiyonUyg\AyCicegiPansiyonUyg\obj\Debug\Interop.WMPLib.dll
+C:\Users\SEDA\Desktop\c# yeni\AyCicegiPansiyonUyg\AyCicegiPansiyonUyg\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\SEDA\Desktop\c# yeni\AyCicegiPansiyonUyg\AyCicegiPansiyonUyg\obj\Debug\Ay Çiçeği Pansiyon UYGULAMASİ.csproj.ResolveComReference.cache
+C:\Users\SEDA\Desktop\c# yeni\AyCicegiPansiyonUyg\AyCicegiPansiyonUyg\obj\Debug\AyCicegiPansiyonUyg.FrmRadyoDinle.resources
+C:\Users\SEDA\Desktop\c# yeni\AyCicegiPansiyonUyg\AyCicegiPansiyonUyg\obj\Debug\AyCicegiPansiyonUyg.FrmGazeteler.resources
+C:\Users\SEDA\Desktop\c# yeni\AyCicegiPansiyonUyg\AyCicegiPansiyonUyg\obj\Debug\AyCicegiPansiyonUyg.FrmSifreGuncelle.resources
+C:\Users\SEDA\Desktop\c# yeni\AyCicegiPansiyonUyg\AyCicegiPansiyonUyg\obj\Debug\AyCicegiPansiyonUyg.FrmMesajlar.resources
+C:\Users\SEDA\c# yeni\AyCicegiPansiyonUyg\AyCicegiPansiyonUyg\bin\Debug\AyCicegiPansiyonUyg.exe.config
+C:\Users\SEDA\c# yeni\AyCicegiPansiyonUyg\AyCicegiPansiyonUyg\bin\Debug\AyCicegiPansiyonUyg.exe
+C:\Users\SEDA\c# yeni\AyCicegiPansiyonUyg\AyCicegiPansiyonUyg\bin\Debug\AyCicegiPansiyonUyg.pdb
+C:\Users\SEDA\c# yeni\AyCicegiPansiyonUyg\AyCicegiPansiyonUyg\bin\Debug\Interop.WMPLib.dll
+C:\Users\SEDA\c# yeni\AyCicegiPansiyonUyg\AyCicegiPansiyonUyg\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\SEDA\c# yeni\AyCicegiPansiyonUyg\AyCicegiPansiyonUyg\obj\Debug\Ay Çiçeği Pansiyon UYGULAMASİ.csproj.AssemblyReference.cache
+C:\Users\SEDA\c# yeni\AyCicegiPansiyonUyg\AyCicegiPansiyonUyg\obj\Debug\Interop.WMPLib.dll
+C:\Users\SEDA\c# yeni\AyCicegiPansiyonUyg\AyCicegiPansiyonUyg\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\SEDA\c# yeni\AyCicegiPansiyonUyg\AyCicegiPansiyonUyg\obj\Debug\Ay Çiçeği Pansiyon UYGULAMASİ.csproj.ResolveComReference.cache
+C:\Users\SEDA\c# yeni\AyCicegiPansiyonUyg\AyCicegiPansiyonUyg\obj\Debug\AyCicegiPansiyonUyg.FrmAdminGiris.resources
+C:\Users\SEDA\c# yeni\AyCicegiPansiyonUyg\AyCicegiPansiyonUyg\obj\Debug\AyCicegiPansiyonUyg.FrmAnaSayfa.resources
+C:\Users\SEDA\c# yeni\AyCicegiPansiyonUyg\AyCicegiPansiyonUyg\obj\Debug\AyCicegiPansiyonUyg.FrmGazeteler.resources
+C:\Users\SEDA\c# yeni\AyCicegiPansiyonUyg\AyCicegiPansiyonUyg\obj\Debug\AyCicegiPansiyonUyg.FrmGelirGider.resources
+C:\Users\SEDA\c# yeni\AyCicegiPansiyonUyg\AyCicegiPansiyonUyg\obj\Debug\AyCicegiPansiyonUyg.FrmMesajlar.resources
+C:\Users\SEDA\c# yeni\AyCicegiPansiyonUyg\AyCicegiPansiyonUyg\obj\Debug\AyCicegiPansiyonUyg.FrmMusteriler.resources
+C:\Users\SEDA\c# yeni\AyCicegiPansiyonUyg\AyCicegiPansiyonUyg\obj\Debug\AyCicegiPansiyonUyg.FrmOdalar.resources
+C:\Users\SEDA\c# yeni\AyCicegiPansiyonUyg\AyCicegiPansiyonUyg\obj\Debug\AyCicegiPansiyonUyg.FrmRadyoDinle.resources
+C:\Users\SEDA\c# yeni\AyCicegiPansiyonUyg\AyCicegiPansiyonUyg\obj\Debug\AyCicegiPansiyonUyg.FrmSifreGuncelle.resources
+C:\Users\SEDA\c# yeni\AyCicegiPansiyonUyg\AyCicegiPansiyonUyg\obj\Debug\AyCicegiPansiyonUyg.FrmStoklar.resources
+C:\Users\SEDA\c# yeni\AyCicegiPansiyonUyg\AyCicegiPansiyonUyg\obj\Debug\AyCicegiPansiyonUyg.FrmYeniMüsteri.resources
+C:\Users\SEDA\c# yeni\AyCicegiPansiyonUyg\AyCicegiPansiyonUyg\obj\Debug\AyCicegiPansiyonUyg.Properties.Resources.resources
+C:\Users\SEDA\c# yeni\AyCicegiPansiyonUyg\AyCicegiPansiyonUyg\obj\Debug\Ay Çiçeği Pansiyon UYGULAMASİ.csproj.GenerateResource.cache
+C:\Users\SEDA\c# yeni\AyCicegiPansiyonUyg\AyCicegiPansiyonUyg\obj\Debug\Ay Çiçeği Pansiyon UYGULAMASİ.csproj.CoreCompileInputs.cache
+C:\Users\SEDA\c# yeni\AyCicegiPansiyonUyg\AyCicegiPansiyonUyg\obj\Debug\AyCicegiPansiyonUyg.exe
+C:\Users\SEDA\c# yeni\AyCicegiPansiyonUyg\AyCicegiPansiyonUyg\obj\Debug\AyCicegiPansiyonUyg.pdb
